@@ -5,5 +5,5 @@ int main(void){
 
 	puts(my_word);
 
-	return 0;
+	return (0);
 }
