@@ -1,9 +1,8 @@
 #include<stdio.h>
 /**
- * main: the entry point
+ * main - Entry point
  *
- * return 0 means success
- *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
