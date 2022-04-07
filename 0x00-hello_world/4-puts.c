@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-	string my_word = "Programming is like building a multilingual puzzle";
 
-	puts(my_word);
-
+	puts("\"Progamming is like building a multilingual puzzle");
 	return (0);
 }
